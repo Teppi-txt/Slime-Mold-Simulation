@@ -1,7 +1,7 @@
 # Slime-Mold-Simulation
 Simulates the properties of the physarum slime mold colony, made in Java with IntelliJ.
 
-##Adjustable variables:
+## Adjustable variables:
 1. Color and size of each slime agent.
 2. The diffusion rate of the trails (how quickly the slime pheromones spread).
 3. The evaporation rate of the trails (how quickly they dissapear).
