@@ -10,6 +10,8 @@ Simulates the properties of the physarum slime mold colony, made in Java with In
 ## Simulating/animating slime mold colonies:
 <p align="center">(low quality gif due to size restrictions) </p>
 
-<image align="center" width="800" src="https://user-images.githubusercontent.com/64125245/180597542-4d319da6-aa11-4ef4-bb68-e9cb68f2fbdd.gif"><image>
+<p align="center">
+<image width="800" src="https://user-images.githubusercontent.com/64125245/180597542-4d319da6-aa11-4ef4-bb68-e9cb68f2fbdd.gif"><image>
+</p>
 <h3 align="center"> 10,000 agents on a grid of 1400x800 </h3>
 
